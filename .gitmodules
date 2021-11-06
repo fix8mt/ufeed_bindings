@@ -1,0 +1,12 @@
+[submodule "cpp"]
+	path = cpp
+	url = git@github.com:fix8mt/ufeed_bindings_cpp.git
+[submodule "csharp"]
+	path = csharp
+	url = git@github.com:fix8mt/ufeed_bindings_csharp.git
+[submodule "java"]
+	path = java
+	url = git@github.com:fix8mt/ufeed_bindings_java.git
+[submodule "python"]
+	path = python
+	url = git@github.com:fix8mt/ufeed_bindings_python.git
