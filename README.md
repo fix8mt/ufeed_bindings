@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/fix8mt/fix8mtstatic/src/assets/fix8brand.jpg">
+</p>
 # ufeed_bindings
 UFEed bindings for popular languages. UFEed is an open wire protocol based on GPB that is used to communicate with our UFE Gateway and F8ME Matching Engine. Can also be used by any Fix8 application.
 
